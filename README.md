@@ -11,6 +11,7 @@
 
 ## MATLAB
 ### Transfer Function Step Response
+![lab3_step response_no1](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159086526/ca617d2f-2b67-43a1-8fdd-0b2101240f62)
 
 ### Block Diagram
 ![1111](https://github.com/m4rkbej/CSE_BlockDiagramAlgebra_BSME_4205_Group12_2024/assets/159036368/700dff43-db50-4606-b68d-abe1813ec660)
